@@ -1,1 +1,3 @@
-Python newbie who attempts to program but often fails. Any criticism is fine.
+Python newbie learning to code mostly in python.
+
+
